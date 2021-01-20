@@ -1,4 +1,4 @@
-# Nest Keycloak Connect
+# Nest Keycloak Connect (Temporary fork to support Keycloak 12)
 
 ![License](https://badgen.net/npm/license/nest-keycloak-connect)
 [![Package Version](https://badgen.net/npm/v/nest-keycloak-connect)](https://www.npmjs.com/package/nest-keycloak-connect)
